@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
                   Text(
                     'Predicted Gross Income: $predictedIncome',
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-                  ),
+                  ), //button
                 ],
               ),
             ),
